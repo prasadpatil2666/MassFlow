@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="DeliveryService.Messages/DeliveryService.Messages.csproj" />
+  <Project Path="DeliveryService/DeliveryService.csproj" />
+  <Project Path="OrderGenerator/OrderGenerator.csproj" />
+  <Project Path="OrderService.Messages/OrderService.Messages.csproj" />
+  <Project Path="OrderService/OrderService.csproj" />
+  <Project Path="PaymentService.Messages/PaymentService.Messages.csproj" />
+  <Project Path="PaymentService/PaymentService.csproj" />
+  <Project Path="SharedConfiguration/SharedConfiguration.csproj" />
+</Solution>
